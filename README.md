@@ -2,27 +2,22 @@
 
 # Welcome!
 
-Hi! This is the (single) point of entry for my github public repositories. 
-In here, you will find some staff regarding to programming languages.
-I would be glad if you find here something helpful for you, or something of your interest!
+Hi! This is the (single) point of entry for my github public repositories.<br> 
+Here, you will find some stuff regarding to programming languages.<br> 
+I would be glad if you find here something helpful for you, or something of your interest!<br> 
+Best regards!
 
-# Programming languages..:
+# Programming languages:
 
-Python: https://github.com/jsanchogithub/python
+https://github.com/jsanchogithub/python<br>
 
-Java:
+https://github.com/jsanchogithub/docker<br>
 
-PL/SQL Oracle Forms and Reports:
+https://github.com/jsanchogithub/angular-bootstrap<br>
 
-Javascript/Bootstrap/Angular:
+# Interesting links:
 
-Cobol:
+Markdown syntax:<br>
+https://www.markdownguide.org/basic-syntax/
 
-
-
-# and some interesting links..:
-
-Markdown syntax: https://www.markdownguide.org/basic-syntax/
-
-
-2021-02-16	readme	reorganize
+<em>Last update of this repository: 2021-02-21</em>
