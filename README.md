@@ -20,4 +20,4 @@ https://github.com/jsanchogithub/angular-bootstrap<br>
 Markdown syntax:<br>
 https://www.markdownguide.org/basic-syntax/
 
-<em>Last update of this repository: 2021-02-21</em>
+<em>Last update of this repository: 2021-08-17</em>
